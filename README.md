@@ -24,7 +24,7 @@ Refine™ is a module for Roblox exploit script developers that helps them write
 
 ---
 
-## Refine™ IDE
+### Refine™ IDE
 
 Refine has a truly advanced IDE (Integrated Development Environment) for developers who need some prompts when developing their projects
 
