@@ -30,5 +30,7 @@ Refine has a truly advanced IDE (Integrated Development Environment) for develop
 
 ---
 
-### Refine™
+### Refine™ EasyMode
+
+If you are **just** starting, we have an EasyMode which had templates and other options to make your scriping experience easier.
 
